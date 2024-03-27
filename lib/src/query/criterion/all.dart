@@ -1,8 +1,10 @@
 export 'and.dart';
+export 'criterion.dart';
 export 'equals.dart';
+export 'field.dart';
 export 'in.dart';
+export 'is.dart';
+export 'is_not.dart';
 export 'like.dart';
 export 'not_equals.dart';
 export 'or.dart';
-export 'criterion.dart';
-export 'field.dart';
