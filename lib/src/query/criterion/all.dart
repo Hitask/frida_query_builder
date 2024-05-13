@@ -7,4 +7,5 @@ export 'is.dart';
 export 'is_not.dart';
 export 'like.dart';
 export 'not_equals.dart';
+export 'not_in.dart';
 export 'or.dart';
